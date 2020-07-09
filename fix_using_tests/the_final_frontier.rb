@@ -10,8 +10,6 @@ def state_log(star_date)
 end
 
 
-def engage(greet_crew)
-  date = generate_star_date
-  greet_crew = "Hello"
-  return state_log(date), greet_crew
+def engage
+  return state_log
 end
