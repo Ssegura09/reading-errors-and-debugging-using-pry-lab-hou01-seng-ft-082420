@@ -10,7 +10,7 @@ def state_log(star_date)
 end
 
 def crew
-  ["Geordi", "Name"]
+  crew = ""
 end
 
 def greet_crew (crew)
