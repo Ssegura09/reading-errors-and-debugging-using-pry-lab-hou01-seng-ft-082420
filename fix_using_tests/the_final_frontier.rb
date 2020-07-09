@@ -10,8 +10,8 @@ def state_log(star_date)
   "Captain's Log, star date #{star_date}."
 end
 
-def engage(state_log)
-  return "#{state_log} and crew greetings."
+def engage(star_date)
+  return "Captain's Log, star date #{star_date}.
 end
 
 
