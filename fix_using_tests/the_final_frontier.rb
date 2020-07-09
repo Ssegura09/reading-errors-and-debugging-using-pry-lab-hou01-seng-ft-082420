@@ -11,5 +11,5 @@ end
 
 
 def engage
-  return state_log(star_date)
+  state_log(star_date)
 end
