@@ -12,5 +12,5 @@ end
 
 def engage
   star_date = generate_star_date
-  return state_log(star_date)
+  puts state_log(star_date)
 end
