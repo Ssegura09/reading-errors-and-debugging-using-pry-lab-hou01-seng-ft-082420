@@ -12,5 +12,6 @@ end
 
 def engage(greet_crew)
   date = generate_star_date
+  greet_crew = "Hello"
   return state_log(date), greet_crew
 end
